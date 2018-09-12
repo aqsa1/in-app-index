@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "auto.battery.full.charge.alarm.battery.alert.app",
+    "sha256_cert_fingerprints":
+    ["FD:68:01:B8:E4:CD:FA:7E:16:98:3D:E1:F0:F7:37:90:AB:F6:AB:46:56:C0:28:01:95:5C:12:15:AC:D0:00:F8"]
+  }
+}]
